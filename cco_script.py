@@ -25,5 +25,4 @@ final_allocation_df = pd.DataFrame(spend_distribution,
                                    index=df['Spend'])
 
 final_allocation_df['Max Simulated Revenue'] = cco.output_max_per_group
-breakpoint()
 final_allocation_df.to_csv("output.csv")
