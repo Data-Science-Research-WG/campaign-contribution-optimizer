@@ -1,5 +1,5 @@
 # campaign-contribution-optimizer
-Codebase for finding optimal distribution of spend across multiple channels or campaigns based on a resource allocation algorithm using dynamic programming and other solutions.
+Codebase for finding optimal distribution of spend across multiple channels or campaigns based on a resource allocation algorithm using dynamic programming and response curves based solution.
 
 ### Running script to get output on PowerBI
 1. Ensure the python home with the version you want to use is detected by PowerBI. This can be checked by going to Options and Settings > Python Scripting.
